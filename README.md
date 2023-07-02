@@ -1,3 +1,4 @@
+[![pages-build-deployment](https://github.com/JOSEW383/DiceeGame/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/JOSEW383/DiceeGame/actions/workflows/pages/pages-build-deployment)
 # Dicee
 
 Dicee is an online dice game designed as an example of a web application developed with Bootstrap. The game consists of rolling two virtual dice and determining which player gets the highest score.
